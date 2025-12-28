@@ -47,7 +47,7 @@ git clone https://github.com/ShivaniSNair/ExpenseTrackerAI.git
 cd next-expense-tracker-ai
 
 2. Install Dependencies
-npm install
+* npm install
 
 3. Setup Environment Variables
 
@@ -59,7 +59,7 @@ Create a .env file in the project root:
 * OPENROUTER_API_KEY=
 
 4. Run the Development Server
-npm run dev
+* npm run dev
 
 
 Open http://localhost:3000
@@ -80,3 +80,4 @@ Interactive charts for data visualization
 Comprehensive expense history with search and filtering
 
 One-click deletion of entries
+
