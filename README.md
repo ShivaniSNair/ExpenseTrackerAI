@@ -44,7 +44,7 @@ AI Integration: OpenRouter AI
 ## ▶️ Getting Started
 1. Clone the Repository
 git clone https://github.com/ShivaniSNair/ExpenseTrackerAI.git
-cd next-expense-tracker-ai
+* cd next-expense-tracker-ai
 
 2. Install Dependencies
 * npm install
@@ -80,4 +80,5 @@ Interactive charts for data visualization
 Comprehensive expense history with search and filtering
 
 One-click deletion of entries
+
 
